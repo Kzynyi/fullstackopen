@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant Browser
     participant Server
@@ -30,6 +31,7 @@ sequenceDiagram
     deactivate Server
     
     Note right of Browser: Execute the callback function
+```
 
     
 
